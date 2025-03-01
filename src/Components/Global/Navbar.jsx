@@ -19,6 +19,16 @@ const Navbar = () => {
             <span className="text-black">I</span>
             <span className="text-black">N</span>
             <span className="text-black">G</span>
+            <span className="text-black">X</span>
+            <span className="text-black">H</span>
+            <span className="text-black">A</span>
+            <span className="text-black">R</span>
+            <span className="text-black">I</span>
+            <span className="text-black">V</span>
+            <span className="text-black">A</span>
+            <span className="text-black">N</span>
+            <span className="text-black">S</span>
+            <span className="text-black">H</span>
           </div>
     
           {/* Navigation Links */}
